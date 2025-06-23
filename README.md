@@ -6,4 +6,4 @@
 <a href="https://packagist.org/packages/postboxcms/dbo"><img src="https://img.shields.io/packagist/l/postboxcms/dbo" alt="License"></a>
 </p>
 
-> DBO provides an API to perform database operations through UI. The package provides custom API endpoints to alter DB tables through any frontend.
+DBO provides an API to perform database operations through UI. The package provides custom API endpoints to alter DB tables through any frontend.
